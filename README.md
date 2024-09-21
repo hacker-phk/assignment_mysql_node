@@ -175,5 +175,3 @@ If you'd like to discuss this project or have any questions, feel free to reach 
 ### Tips to Tailor it:
 - **GitHub URL**: https://github.com/hacker-phk
 - **Future Plans**: Work as a software developer
-
-By presenting the README like this, you can convey professionalism and technical depth while making it easy for recruiters or interviewers to understand your project. Let me know if you need further refinements!
